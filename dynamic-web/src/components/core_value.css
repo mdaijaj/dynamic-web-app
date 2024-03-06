@@ -1,0 +1,8 @@
+.card:hover {
+    background: rgba(255, 255, 255, 0.46);
+    background: rgba(255, 255, 255, 0.1);
+    background: rgb(255 255 255 / 89%);
+    color: black;
+    transform: scale(1.04);
+    /* Change the background on hover */
+  }
